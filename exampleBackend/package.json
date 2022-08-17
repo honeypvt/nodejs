@@ -1,0 +1,21 @@
+{
+  "name": "examplebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.3.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mocha": "^9.1.3",
+    "mongoose": "^6.0.11",
+    "supertest": "^6.1.6"
+  }
+}
